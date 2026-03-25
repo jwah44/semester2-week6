@@ -18,6 +18,9 @@
  *   ./worksheet test_name    - Run specific test
  */
 
+// Name: Joshua Momcilovic
+// Student Number: 201876926
+
 #include "acutest.h"
 
 /* ============================================================
